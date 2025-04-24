@@ -1,4 +1,4 @@
-# COMIT
+# COMIT - FINAL PROJECT ( BALLET CLASS SYSTEM)
 
 Project: System for register the Kids ballet class in the  summer break
 Backend course in COMIT 
