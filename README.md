@@ -3,7 +3,8 @@
 Project: System for register the Kids ballet class in the  summer break
 Backend course in COMIT 
 Ballet Class for Girls (6-9 years old)
-Welcome to our special summer ballet class, designed to bring joy, creativity, and movement to girls aged 6 to 9! 🌸🩰
+Welcome to our special summer ballet class, designed to bring joy, creativity, and movement to girls aged 6 to 9.
+
 About the Class
 This beginner-friendly ballet class offers a wonderful opportunity for young girls to:
 - Learn the fundamentals of ballet in a fun and supportive environment.
