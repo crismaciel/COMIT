@@ -12,14 +12,15 @@ This beginner-friendly ballet class offers a wonderful opportunity for young gir
 - Express themselves artistically while making new friends.
 
 Class Schedule
-- When: Every Sunday during the summer break
+- When: Every Sunday during the summer break (June 29th until August 31th) 10 sessions.
 - Time: 10:30 AM - 11:45 AM
 - Where: Studio Room 415, Anvil Centre
 - Duration: 1 hour and 15 minutes per session
 
 Registration
-- Who Can Register: Parents or guardians must register their child.
-- How to Register: Please visit Anvil Centre's studio room 415 during registration hours or contact us at [insert contact info].
+- Who Can Register: Parents or guardians must register their child ( parents names, DOB, address, pictures for both)
+- Questionary about kids ( higher, weight, nicknames, colours preference, and cartoon character preference for picture the register)
+- How to Register: Please visit Anvil Centre's studio site or contact us at [insert contact info].
 
 What to Bring
 - Ballet shoes
@@ -28,8 +29,8 @@ What to Bring
 
 Contact Information
 For any questions or concerns, feel free to reach out:
-- Email: [insert email address]
-- Phone: [insert phone number]
+- Email: balletsummer@balletsummer.ca
+- Phone: 604 000 2025
 
 
 
