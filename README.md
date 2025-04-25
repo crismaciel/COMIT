@@ -18,7 +18,7 @@ Class Schedule
 - Duration: 1 hour and 15 minutes per session
 
 Registration
-- Who Can Register: Parents or guardians must register their child ( parents names, DOB, address, pictures for both)
+- Who Can Register: Parents or guardians must register their child ( parents names, DOB, address, pictures for both), and payment informations by credit card.
 - Questionary about kids ( higher, weight, nicknames, colours preference, and cartoon character preference for picture the register)
 - How to Register: Please visit Anvil Centre's studio site or contact us at [insert contact info].
 
